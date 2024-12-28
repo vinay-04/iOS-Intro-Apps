@@ -1,0 +1,200 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Casual Shirt 1",
+            "price": {
+                "value": 49.90,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "white"
+            },
+            "type": "shirt",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/shirt1.png?raw=true"
+        },
+        {
+            "id": "2",
+            "name": "Cozy Hoodie 1",
+            "price": {
+                "value": 103.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "fleece",
+                "color": "beige"
+            },
+            "type": "hoodie",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/hoodie1.png?raw=true"
+        },
+        {
+            "id": "3",
+            "name": "Cozy Hoodie 2",
+            "price": {
+                "value": 339.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "wool blend",
+                "color": "gray"
+            },
+            "type": "hoodie",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/hoodie2.png?raw=true"
+        },
+        {
+            "id": "4",
+            "name": "Cozy Hoodie 3",
+            "price": {
+                "value": 749.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "polyester",
+                "color": "black"
+            },
+            "type": "hoodie",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/hoodie3.png?raw=true"
+        },
+        {
+            "id": "5",
+            "name": "Casual Shirt 2",
+            "price": {
+                "value": 69.20,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "polyester",
+                "color": "dark blue"
+            },
+            "type": "shirt",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/shirt2.png?raw=true"
+        },
+        {
+            "id": "6",
+            "name": "Cozy Hoodie 4",
+            "price": {
+                "value": 1439.60,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton blend",
+                "color": "black"
+            },
+            "type": "hoodie",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/hoodie4.png?raw=true"
+        },
+        {
+            "id": "7",
+            "name": "Cozy Hoodie 5",
+            "price": {
+                "value": 199.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "knit fabric",
+                "color": "multi"
+            },
+            "type": "hoodie",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/hoodie5.png?raw=true"
+        },
+        {
+            "id": "8",
+            "name": "Casual Shirt 3",
+            "price": {
+                "value": 49.90,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "denim",
+                "color": "black"
+            },
+            "type": "shirt",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/shirt3.png?raw=true"
+        },
+        {
+            "id": "9",
+            "name": "Cozy Hoodie 6",
+            "price": {
+                "value": 499.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "wool",
+                "color": "flannel pattern"
+            },
+            "type": "hoodie",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/hoodie6.png?raw=true"
+        },
+        {
+            "id": "10",
+            "name": "Casual Shirt 4",
+            "price": {
+                "value": 49.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "black"
+            },
+            "type": "shirt",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/shirt4.png?raw=true"
+        },
+        {
+            "id": "11",
+            "name": "Casual Shirt 5",
+            "price": {
+                "value": 119.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "linen",
+                "color": "black"
+            },
+            "type": "shirt",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/shirt5.png?raw=true"
+        },
+        {
+            "id": "12",
+            "name": "Casual Shirt 6",
+            "price": {
+                "value": 49.90,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "cotton",
+                "color": "natural"
+            },
+            "type": "shirt",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/shirt6.png?raw=true"
+        },
+        {
+            "id": "13",
+            "name": "Casual Shirt 7",
+            "price": {
+                "value": 39.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "polyester",
+                "color": "white"
+            },
+            "type": "shirt",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/shirt7.png?raw=true"
+        },
+        {
+            "id": "14",
+            "name": "Cozy Hoodie 7",
+            "price": {
+                "value": 449.50,
+                "currency": "kr"
+            },
+            "info": {
+                "material": "wool blend",
+                "color": "multi"
+            },
+            "type": "hoodie",
+            "imageUrl": "https://github.com/Ebullioscopic/Shopping-App/blob/main/images/hoodie7.png?raw=true"
+        }
+    ]
+}
